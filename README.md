@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Olavo Licursi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desenvolvedor+Back-end;Amante+de+Automação+e+Data+Science;Explorando+Cybersegurança" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desenvolvedor+Back-end;Amante+de+I.A;Explorando+Cybersegurança" />
 </p>
 
 ## 🚀 Sobre mim
