@@ -9,7 +9,7 @@
 - 🎓 Formado em Ciência da Computação pela UNIP.
 - 💻 Desenvolvedor Back-end com foco em **Python, Node.js e Delphi**.
 - 🔐 Certificado como **Penetration Tester Junior**.
-- 📊 Apaixonado por I.A CyberSegurança.
+- 📊 Apaixonado por I.A e CyberSegurança.
 
 ## 🛠️ Tecnologias & Ferramentas
 <div style="display: flex; flex-wrap: wrap;">
